@@ -1,0 +1,1 @@
+console.log("Day one of Javascript")
